@@ -88,7 +88,7 @@ def Tweet_It(PhotPath):
 	if PickAccount == 0:
 		# first Account
 		consumer_key = 'very long token'
-		consumer_secret = 'RHzKUdD6ZH9HNWCS8hJkl8sQ1hk03edGm61pO6boOYMYK3jZHV'
+		consumer_secret = 'even longer secret'
 		access_token = 'very long token'
 		access_token_secret = 'even longer secret'
 	else:
